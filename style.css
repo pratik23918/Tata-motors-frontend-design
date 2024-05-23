@@ -1,0 +1,16 @@
+.rectangle{
+    Width:1920px;
+    Height :100px;
+    background-color: #0A0A5F;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+#tataConnect{
+   padding-top: 25px;
+   padding-left: 160px;
+}
+#tataSymbol{
+    padding-top: 25px;
+    padding-left: 1400px;
+}
