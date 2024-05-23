@@ -14,3 +14,33 @@
     padding-top: 25px;
     padding-left: 1400px;
 }
+#asset{
+    position: absolute;
+    padding-top: 247px;
+    padding-left: 160px;
+}
+.text{
+    position: absolute;
+    top: 578px;
+    color: white;
+    left: 228px;
+}
+.text-1{
+    position: absolute;
+    top: 645px;
+    left: 278px;
+    color: #FFFFFF;
+}
+.btn{
+    position: absolute;
+    top: 725px;
+    left: 258px;
+    border-radius: 30px;
+    padding: 10px 25px 10px 25px;
+}
+.headerRect{
+  display: block;
+  align-items: center;
+  align-content: center;
+  gap: 10px;
+}
