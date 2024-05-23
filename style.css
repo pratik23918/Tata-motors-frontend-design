@@ -32,15 +32,41 @@
     color: #FFFFFF;
 }
 .btn{
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
     position: absolute;
     top: 725px;
     left: 258px;
     border-radius: 30px;
     padding: 10px 25px 10px 25px;
+    background-color: #0A0A5F00;
+    color: white;
+    border: 1px solid #FFFFFF;
 }
 .headerRect{
   display: block;
   align-items: center;
   align-content: center;
   gap: 10px;
+}
+
+.secondpage{
+    margin: 40px;
+}
+.box{
+    position: absolute;
+    z-index: 1;
+    left: 596px;
+    top: 1341px;
+    /* bottom: 721px; */
+    width: 1044px;
+    height: 711px;
+    /* padding-top: 1323px; */
+    padding-left: 692px;
+    border-radius: 3px;
+    background-color: rgba(109, 194, 218, 1);
+}
+.secondcar{
+    position: relative;
 }
